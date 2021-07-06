@@ -1,4 +1,4 @@
 # hello-world
 hello world
-
-Another comments
+Hi everyone
+this is my first class of the Github
